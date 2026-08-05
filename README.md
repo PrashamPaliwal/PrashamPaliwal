@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Prasham
+# 👋 Hi, I'm Prasham Paliwal  
 
-🎓 Class 12 PCM cleared student  
-💻 Skilled in **Python & Java development**  
-📂 Building system-level projects with multi‑file structures and data handling  
-🌱 Exploring fundamentals of cybersecurity as part of my learning journey  
+🎓 **B.Tech CSE** – Cyber Security & Digital Forensics @ VIT Bhopal  
+💻 Passionate about **Python & Java development**  
+📂 Building **system-level projects** with multi‑file structures & data handling  
+🌱 Exploring the fundamentals of **cybersecurity**  
 
 ---
 
@@ -17,7 +17,7 @@ Here are some of the projects I’ve built and uploaded:
   File‑based banking system with account creation, transactions, and employee login.  
 
 - [Drink Machine OOP](https://github.com/PrashamPaliwal/Drink-Machine-OOP)  
-  Simulation of a coffee/tea vending machine using Python OOP concepts, with menu options, ingredient tracking, and admin mode. 
+  Coffee/tea vending machine simulation using Python OOP concepts, with menu options, ingredient tracking, and admin mode.  
 
 - [Student Record Manager](https://github.com/PrashamPaliwal/Student-Record-Manager)  
   CRUD system for managing student records with search, update, and delete functions.  
@@ -25,17 +25,29 @@ Here are some of the projects I’ve built and uploaded:
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python (Core concepts), Java (Core concepts)  
+- **Languages**: Python, Java  
 - **Concepts**: OOP, collections, exception handling, modular design, file handling, system design basics  
-- **Tools**: GitHub, VS Code  
+- **Tools**: GitHub, VS Code, LeetCode  
+
+---
+
+## 📊 Coding Profiles
+- 🐍 [GitHub](https://github.com/PrashamPaliwal) – Projects, systems, games, basic algorithmic codes 
+- 🧩 [LeetCode](https://leetcode.com/coreprasham) – Practicing algorithms & data structures  
+
+---
+
+## 📫 Connect With Me
+-📧 Email: prashampaliwal8@gmail.com
 
 ---
 
 ## 🌱 Goals
-- Strengthen system design and data handling skills  
+- Strengthen system design & data handling skills  
 - Transition from file‑based storage to database systems (SQLite/MySQL)  
 - Explore cybersecurity concepts during my degree  
 
 ---
 
 ⭐️ Feel free to explore my repositories and connect with me!
+
