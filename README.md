@@ -29,11 +29,12 @@ Here are some of the projects I’ve built and uploaded:
 ## 📊 Coding Profiles
 - 🐍 [GitHub](https://github.com/PrashamPaliwal) – Projects, systems, games, basic algorithmic codes 
 - 🧩 [LeetCode](https://leetcode.com/coreprasham) – Practicing algorithms & data structures  
-
+  
 ---
 
 ## 📫 Connect With Me
--📧 Email: prashampaliwal8@gmail.com
+- 📧 Email: prashampaliwal8@gmail.com - Personal contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/prasham-paliwal) – Professional profile & connections
 
 ---
 
