@@ -10,11 +10,11 @@
 ## 🚀 Projects
 Here are some of the projects I’ve built and uploaded:
 
-🚂 Railway Management System (Python)
+🚂 Railway Management System (Python)  
 🏦 Bank Simulator (Python)  
 🎲 Guess The Number (Java)  
 ☕ Drink Machine (Python OOP)  
-📚 Student Record Manager (Python)
+📚 Student Record Manager (Python)  
 🏏 Hand Cricket Game (Java)
 
 ---
